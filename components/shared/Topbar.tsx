@@ -6,7 +6,7 @@ import React from 'react'
 
 function Topbar() {
 
-  const isUserLoggedIn = true
+  const isUserLoggedIn = true 
   return (
     <nav className='topbar'>
       <Link 

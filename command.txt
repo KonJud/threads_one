@@ -1,0 +1,12 @@
+@clerk/nextjs @uploadthing/react mongoose svix uploadthing
+tailwindcss-animate
+@clerk/themes
+npx shadcn-ui@ltatest init
+shadcn-ui@latest add textarea
+
+""""
+favicon.io
+https://nerdcave.com/tailwind-cheat-sheet
+
+https://docs.uploadthing.com/getting-started/appdir
+"""
